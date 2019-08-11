@@ -1,0 +1,1 @@
+Here need to place all external jars for successfully compile of project.
